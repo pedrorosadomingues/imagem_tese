@@ -13,7 +13,7 @@ export default function ImagemTese(): JSX.Element {
                 </div>
                 <div className="flex items-center mt-[15px]">
                     <img className="w-[150px] rounded-[20px] " src='brasil_deficiencia.jpeg' />
-                    <p className="ml-[10px] text-[#000] ">3) observação-participante em diversas capacitações realizadas em todo o Brasil com profissionais que aplicariam o IFBrM; Foto: Capacitação realizada em Recife</p>
+                    <p className="ml-[10px] text-[#000] ">3) observação-participante em diversas capacitações realizadas em todo o Brasil com profissionais que aplicariam o IFBrM; <br></br><span className="font-bold">Foto</span>: Capacitação realizada em Recife, 2019.</p>
                     <img className="mirror-horizontal w-[120px] mb-[60px]" src='switch3.svg' />
                 </div>
                 <div className="flex justify-center items-center ">
