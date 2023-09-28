@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.mirror-horizontal {
+  transform: scaleX(-1)
+ 
+}
