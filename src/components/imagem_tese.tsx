@@ -47,7 +47,7 @@ export default function ImagemTese(): JSX.Element {
                 </div>
                 <div className="flex mt-[-30px]">
                     <div className="flex justify-center items-center">
-                        <img className='w-[150px]' src='formulario.webp' />
+                        <img className='w-[150px]' src='formulario.avif' />
                         <p className="ml-[10px] text-[#000]">
                             8) dados da avaliação da deficiência produzidos a partir do preenchimento do IFBrM por pares de profissionais
                             referentes a funcionalidade de 8.795 pessoas com deficiência;
@@ -58,7 +58,7 @@ export default function ImagemTese(): JSX.Element {
                 </div>
                 <div className="flex items-center">
                     <img className=" w-[80px] mb-[30px] ml-[30px] mt-[-50px] pt-[25px] mirror-horizontal mr-[15px]" src='switch13.svg' />
-                    <img className="w-[150px] rounded-[20px] " src='opiniao.avif' />
+                    <img className="w-[150px] h-[130px] rounded-[20px] " src='opiniao.jpeg' />
                     <p className="ml-[10px] text-[#000] ">9) dados sobre a opinião dos profissionais sobre a funcionalidade dos sujeitos avaliados;</p>
 
                 </div>
